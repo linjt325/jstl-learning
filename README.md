@@ -52,7 +52,6 @@ jstl函数
 ```
 
 ## el表达式
-```
-graphic LR
+```graph LR
 A(value)-->B()
-```# jstl-learning
+```
